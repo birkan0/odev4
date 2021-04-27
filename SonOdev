@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Site Yapımı</title>
+</head>
+
+<body>
+    <header>
+        <ul>  
+        </body >
+            <center> <img  src="google.jpg" alt="arama cubugu göstergesi">
+            <p>Googleda arama yapın</p>
+            <form action=""name="arama kutusu"method="post">
+            <input type="text"name="arama" placeholder="Arama"/></form> 
+            <button type="submit">Googleda Ara</button>
+            <button>Kendimi Şanslı Hissediyorum</button>
+            </center>
+        </ul>
+
+        <ul>
+            <center style="background-color: aqua;">
+            <a href="Özel Aramalar">Özel Aramalar</a><br>
+            <a href="Stanford Aramaları">Standford Aramaları</a><br>
+            <a href="Linux Aramaları">Linux Aramaları</a>
+            </center>
+        </ul>
+        
+        <ul>
+            <center style="background-color: aqua;">
+            <a href="Yardım">Yardım!</a><br>
+            <a href="Google Hakkında">Google Hakkında</a><br>
+            <a href="Şirket Bilgisi">Şirket Bilgisi</a><br>
+            <a href="Google Logoları">Google Logoları</a>
+            </center >
+            
+        </ul>
+        
+        <ul> 
+            <center style="background-color: aqua;">
+            <p>Google Güncellemesi Al </p>
+            <form action=""name="Mail adresin"method="post">
+            <input type="text"name="arama" placeholder="Mail Adresin"/>
+            </form> 
+            <button>Takip Et</button>
+            <a href="Arşiv">Arşiv</a> 
+            </center>
+        </ul>
+
+        
+
+</body>
+</html>
